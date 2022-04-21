@@ -3,7 +3,8 @@ Keypatch
 ### 使用指南
 1、确定IDA的使用的python环境  
 2、下载对应的版本的脚本  
-
+python3 - keypatch3.py  
+python2 - keypatch.py（不推荐）  
 --------------------
 
 Keypatch is [the award winning plugin](https://www.hex-rays.com/contests/2016/index.shtml) of [IDA Pro](https://www.hex-rays.com/products/ida/) for [Keystone Assembler Engine](http://keystone-engine.org).
